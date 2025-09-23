@@ -1,0 +1,6 @@
+- Ynov engineering school
+- Author : Sonia Tabti
+- Master 2 data science and deep learning class
+- Fall 2025
+- Some basics : image filering, convolution with the blur_sobel_filters.py 
+- Smooth introduction to PCA in image processing with : pca_image_patches.py
